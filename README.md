@@ -1,14 +1,25 @@
 # 👋 Hi, I'm Pruthvi
 
-💼 Mobile App Developer (Android | iOS | Flutter)
-📍 India
-📱 Building scalable, high-performance mobile applications
+🎓 MSc Student in Mobile Application & UI Development
+🎓 BCA Graduate – Silver Oak University
+📍 Ahmedabad, Gujarat, India
+💼 Aspiring Mobile App Developer (Android | iOS | Flutter)
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Versatile mobile app developer with experience in building cross-platform and native applications. Skilled in Flutter for rapid development and Swift for iOS, with a strong focus on clean UI, performance, and real-world business solutions.
+I am a motivated mobile app developer with a strong academic background in computer applications and mobile technologies. I enjoy building practical, user-focused applications and continuously improving my development and design skills.
+
+---
+
+## 🎓 Education
+
+* **MSc in Mobile Application & UI Development**
+  Gujarat University
+
+* **Bachelor of Computer Applications (BCA)**
+  Silver Oak University
 
 ---
 
@@ -18,7 +29,7 @@ Versatile mobile app developer with experience in building cross-platform and na
 * **Frameworks:** Flutter, SwiftUI, UIKit
 * **Platforms:** Android & iOS
 * **Tools:** Git, GitHub, Xcode, Android Studio
-* **Concepts:** REST APIs, Responsive UI, App Architecture (learning)
+* **Concepts:** UI/UX Design, Responsive UI, REST APIs
 
 ---
 
@@ -26,11 +37,11 @@ Versatile mobile app developer with experience in building cross-platform and na
 
 ### 🏭 Factory Tools Order App
 
-A business-focused mobile application for managing industrial tool orders.
+A real-world mobile application designed for managing industrial tool orders.
 
-**Features:**
+**Key Features:**
 
-* 🔐 Authentication (Login/Signup)
+* 🔐 User authentication (Login/Signup)
 * 🛒 Product listing & categories
 * 📦 Order management system
 * 👤 User profile
@@ -39,34 +50,35 @@ A business-focused mobile application for managing industrial tool orders.
 
 ---
 
-### 📱 iOS App Development
+## 📈 Currently Learning
 
-* Built iOS apps using Swift
-* Implemented clean UI with SwiftUI / UIKit
-* Integrated APIs and handled dynamic data
-
----
-
-## 📈 Currently Improving
-
-* Advanced Flutter animations & UI
+* Advanced Flutter UI & animations
 * Native iOS development (SwiftUI)
 * Backend integration (Firebase & APIs)
-* State management (Provider / Riverpod)
+* App architecture (MVVM, Clean Architecture)
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking an opportunity as a **Mobile App Developer (Android / iOS / Flutter)** where I can contribute to real-world applications, improve my skills, and grow in a professional environment.
+I am actively seeking an **internship or entry-level opportunity as a Mobile App Developer**, where I can apply my skills in Flutter and iOS development, contribute to real-world projects, and grow as a developer in a professional environment.
+
+---
+
+## 💼 What I Bring
+
+* Strong foundation in mobile app development
+* Ability to build complete apps from UI to basic functionality
+* Eagerness to learn new technologies quickly
+* Focus on clean UI and user experience
 
 ---
 
 ## 📬 Contact
 
 * GitHub: https://github.com/pruthviluhar
-* Email: [pruthviluhar1@gmail.com](pruthviluhar1@gmail.com)
+* Email: [pruthviluhar1@gmail.com](mailto:pruthviluhar1@gmail.com)
 
 ---
 
-⭐ *Open to internships and entry-level mobile developer roles*
+⭐ *Open to internships, freelance work, and entry-level roles*
